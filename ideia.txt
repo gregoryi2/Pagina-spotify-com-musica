@@ -1,0 +1,3 @@
+Cirar um banco de dados em JSON com os nomes das músicas.
+
+Cada botão terá uma função atribuída.
